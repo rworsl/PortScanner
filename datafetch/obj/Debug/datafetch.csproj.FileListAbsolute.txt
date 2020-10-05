@@ -1,0 +1,10 @@
+C:\Users\RichW\source\repos\datafetch\datafetch\bin\Debug\datafetch.exe.config
+C:\Users\RichW\source\repos\datafetch\datafetch\bin\Debug\datafetch.exe
+C:\Users\RichW\source\repos\datafetch\datafetch\bin\Debug\datafetch.pdb
+C:\Users\RichW\source\repos\datafetch\datafetch\obj\Debug\datafetch.csprojAssemblyReference.cache
+C:\Users\RichW\source\repos\datafetch\datafetch\obj\Debug\datafetch.Form1.resources
+C:\Users\RichW\source\repos\datafetch\datafetch\obj\Debug\datafetch.Properties.Resources.resources
+C:\Users\RichW\source\repos\datafetch\datafetch\obj\Debug\datafetch.csproj.GenerateResource.cache
+C:\Users\RichW\source\repos\datafetch\datafetch\obj\Debug\datafetch.csproj.CoreCompileInputs.cache
+C:\Users\RichW\source\repos\datafetch\datafetch\obj\Debug\datafetch.exe
+C:\Users\RichW\source\repos\datafetch\datafetch\obj\Debug\datafetch.pdb
